@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 
+/* Answer Begin */
 #define HASH_SIZE 35023
 #define HASH_FUNC(x) (abs(x) % HASH_SIZE)
 #define TRUE 1
@@ -82,6 +83,8 @@ int* twoSum(int* nums, int numsSize, int target)
     }
     return NULL;
 }
+
+/* Answer End */
 
 int main()
 {
