@@ -1,7 +1,7 @@
 # LeetCode
 Code collection for leetcode ^_^
 
-Finished problem
+Finished problems:
 
 * 1 Two Sum [C]
 * 2 Add Two Numbers [C]
