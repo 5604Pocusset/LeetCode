@@ -4,6 +4,7 @@
 #define TRUE 1
 #define FALSE 0
 
+// Answer begin
 int lengthOfLongestSubstring(char* s) {
     int word_flags[256];
     char* head = s+1;
@@ -54,6 +55,7 @@ int lengthOfLongestSubstring(char* s) {
     }
     return answer;
 }
+// Answer end
 
 int main()
 {

@@ -7,7 +7,11 @@
 3_longest_substring_without_repeating_characters: 3_longest_substring_without_repeating_characters.c
 	gcc 3_longest_substring_without_repeating_characters.c -o 3_longest_substring_without_repeating_characters
 	./3_longest_substring_without_repeating_characters
+4_median_of_two_sorted_arrays: 4_median_of_two_sorted_arrays.c
+	gcc 4_median_of_two_sorted_arrays.c -o 4_median_of_two_sorted_arrays
+	./4_median_of_two_sorted_arrays
 clean:
 	-@rm 1_two_sum
 	-@rm 2_add_two_numbers
 	-@rm 3_longest_substring_without_repeating_characters
+	-@rm 4_median_of_two_sorted_arrays
