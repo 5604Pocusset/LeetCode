@@ -9,3 +9,4 @@ Finished problems:
 * 175 Combine Two Tables [MySQL]
 * 176 Second Highest Salary [MySQL]
 * 192 Word Frequency [Bash]
+* 193 Valie Phone Numbers [Bash]

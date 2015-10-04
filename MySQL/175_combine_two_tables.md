@@ -1,6 +1,6 @@
 # Combine Two Tables
 
-command line log
+# Command line log
 
 ```sql
 mysql> create database 175_combine_two_tables;

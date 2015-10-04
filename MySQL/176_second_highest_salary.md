@@ -3,6 +3,8 @@
 居然是简单题...估计是我的做法太麻烦了, 我用了`GROUP BY`去重, `ORDER BY`排序, `LIMIT 1 OFFSET 1`拿第二个, `UNION`把`NULL`拿进来.
 有空查一下更厉害的做法.
 
+## Command line log
+
 ```sql
 mysql> create database 176_second_highest_salary;
 Query OK, 1 row affected (0.00 sec)
