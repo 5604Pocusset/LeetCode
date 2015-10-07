@@ -8,6 +8,7 @@ Finished problems:
 * 3 Longest Substring Without Repeating Characters [C]
 * 4 Median of Two Sorted Arrays [C]
 * 5 Longest Palindromic Substring [C]
+* 6 ZigZag Conversion [C]
 * 175 Combine Two Tables [MySQL]
 * 176 Second Highest Salary [MySQL]
 * 192 Word Frequency [Bash]

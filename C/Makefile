@@ -13,6 +13,9 @@
 5_longest_palindromic_substring: 5_longest_palindromic_substring.c
 	gcc 5_longest_palindromic_substring.c -o 5_longest_palindromic_substring
 	./5_longest_palindromic_substring
+6_zigzag_conversion: 6_zigzag_conversion.c
+	gcc 6_zigzag_conversion.c -o 6_zigzag_conversion
+	./6_zigzag_conversion
 clean:
 	-@rm 1_two_sum
 	-@rm 2_add_two_numbers
