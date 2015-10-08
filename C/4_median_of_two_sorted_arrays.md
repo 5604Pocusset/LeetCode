@@ -1,5 +1,7 @@
 # Median of two sorted arrays
 
+Runtime: 20 ms; Your runtime beats 47.20% of c submissions.
+
 我知道了..面试就是特别喜欢出这种坑人的题目.
 思路是很简单的了, 用两个指针一直走, 走到中位数的位置就停下来输出.
 但是需要考虑两个问题:

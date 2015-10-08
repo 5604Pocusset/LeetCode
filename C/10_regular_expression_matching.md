@@ -1,5 +1,7 @@
 # Regular Expression Matching
 
+Runtime: 4ms; Your runtime beats 85.57% of c submissions.
+
 20151007 决定先做Hard...
 
 Regular Expression显然要用自动状态机来表达, 然后就觉得用递归非常显然啊.

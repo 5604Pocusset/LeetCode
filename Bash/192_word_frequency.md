@@ -1,5 +1,7 @@
 # Word Frequency
 
+Runtime: 16 ms; Your runtime beats 15.79% of bash submissions.
+
 ## Solution 1:
 
 思路:

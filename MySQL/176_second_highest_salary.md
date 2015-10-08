@@ -1,5 +1,7 @@
 # Second Highest Salary
 
+Runtime: 908 ms; Your runtime beats 28.87% of mysql submissions.
+
 居然是简单题...估计是我的做法太麻烦了, 我用了`GROUP BY`去重, `ORDER BY`排序, `LIMIT 1 OFFSET 1`拿第二个, `UNION`把`NULL`拿进来.
 有空查一下更厉害的做法.
 

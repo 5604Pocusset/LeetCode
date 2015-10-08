@@ -1,5 +1,7 @@
 # Combine Two Tables
 
+Runtime: 933 ms; Your runtime beats 41.03% of mysql submissions.
+
 # Command line log
 
 ```sql

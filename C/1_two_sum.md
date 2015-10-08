@@ -1,5 +1,7 @@
 # Two Sum
 
+Runtime: 4 ms; Your runtime beats 42.47% of c submissions.
+
 思路: 把输入数组转成Hash, 然后去Hash中查表找匹配的数
 * Hash Value通常是质数
 * 注意负数的情况

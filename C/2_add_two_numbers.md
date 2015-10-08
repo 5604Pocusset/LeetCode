@@ -1,4 +1,6 @@
 # Add Two Numbers
 
+Runtime: 16 ms; Your runtime beats 77.52% of c submissions.
+
 复习链表操作...
 很好奇更快的做法是怎么样的...

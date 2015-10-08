@@ -1,5 +1,7 @@
 # Valid Phone Numbers
 
+Runtime: 24 ms; Your runtime beats 6.51% of bash submissions.
+
 嗯..正则表达式, 我喜欢. 知道的新知识是这个:
 
 http://stackoverflow.com/questions/9929841/two-regular-expressions-in-grep-with-alternation

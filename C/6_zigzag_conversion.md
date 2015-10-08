@@ -1,5 +1,7 @@
 # ZigZag Conversion
 
+Runtime: 8ms; Your runtime beats 40.64% of c submissions.
+
 找规律...
 
 ```
