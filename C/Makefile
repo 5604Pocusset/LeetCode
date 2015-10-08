@@ -16,9 +16,14 @@
 6_zigzag_conversion: 6_zigzag_conversion.c
 	gcc 6_zigzag_conversion.c -o 6_zigzag_conversion
 	./6_zigzag_conversion
+10_regular_expression_matching: 10_regular_expression_matching.c
+	gcc 10_regular_expression_matching.c -o 10_regular_expression_matching
+	./10_regular_expression_matching
 clean:
 	-@rm 1_two_sum
 	-@rm 2_add_two_numbers
 	-@rm 3_longest_substring_without_repeating_characters
 	-@rm 4_median_of_two_sorted_arrays
 	-@rm 5_longest_palindromic_substring
+	-@rm 6_zigzag_conversion
+	-@rm 10_regular_expression_matching
