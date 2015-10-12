@@ -16,6 +16,9 @@
 6_zigzag_conversion: 6_zigzag_conversion.c
 	gcc 6_zigzag_conversion.c -o 6_zigzag_conversion
 	./6_zigzag_conversion
+7_reverse_integer: 7_reverse_integer.c
+	gcc 7_reverse_integer.c -o 7_reverse_integer
+	./7_reverse_integer
 10_regular_expression_matching: 10_regular_expression_matching.c
 	gcc 10_regular_expression_matching.c -o 10_regular_expression_matching
 	./10_regular_expression_matching
@@ -26,4 +29,5 @@ clean:
 	-@rm 4_median_of_two_sorted_arrays
 	-@rm 5_longest_palindromic_substring
 	-@rm 6_zigzag_conversion
+	-@rm 7_reverse_integer
 	-@rm 10_regular_expression_matching
