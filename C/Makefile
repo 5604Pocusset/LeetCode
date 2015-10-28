@@ -22,6 +22,9 @@
 10_regular_expression_matching: 10_regular_expression_matching.c
 	gcc 10_regular_expression_matching.c -o 10_regular_expression_matching
 	./10_regular_expression_matching
+12_integer_to_roman: 12_integer_to_roman.c
+	gcc 12_integer_to_roman.c -o 12_integer_to_roman
+	./12_integer_to_roman
 clean:
 	-@rm 1_two_sum
 	-@rm 2_add_two_numbers
