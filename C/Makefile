@@ -25,6 +25,9 @@
 12_integer_to_roman: 12_integer_to_roman.c
 	gcc 12_integer_to_roman.c -o 12_integer_to_roman
 	./12_integer_to_roman
+13_roman_to_integer: 13_roman_to_integer.c
+	gcc 13_roman_to_integer.c -o 13_roman_to_integer
+	./13_roman_to_integer
 clean:
 	-@rm 1_two_sum
 	-@rm 2_add_two_numbers
@@ -34,3 +37,5 @@ clean:
 	-@rm 6_zigzag_conversion
 	-@rm 7_reverse_integer
 	-@rm 10_regular_expression_matching
+	-@rm 12_integer_to_roman
+	-@rm 13_roman_to_integer
